@@ -1,0 +1,70 @@
+FOLDERMOJI PROPRIETARY FREE-USE LICENCE
+Version 1.0 — 27 August 2026
+
+Copyright © 2026 Paul Williams. All rights reserved.
+
+IMPORTANT: FolderMoji is proprietary software. It is made available without a licence fee, but it is not open-source software and is not placed in the public domain.
+
+1. Licence grant
+
+Subject to these terms, Paul Williams (the “Licensor”) grants each lawful recipient a limited, revocable, non-exclusive, non-transferable licence to install and use FolderMoji for personal, educational, professional, or internal organizational purposes.
+
+2. Permitted copies
+
+The user may make a reasonable number of backup copies solely to preserve or reinstall the software for the user's own permitted use. Every copy must retain all copyright, trademark, attribution, and proprietary notices.
+
+3. Restrictions
+
+Except where applicable law expressly permits otherwise, the user may not:
+
+(a) sell, rent, lease, sublicense, publish, distribute, host, or commercially exploit FolderMoji or any part of it;
+(b) repackage or submit FolderMoji, substantially similar source code, or a modified version to any extension store, software marketplace, repository, or distribution service;
+(c) copy FolderMoji source code, interface text, documentation, or original visual assets into another product;
+(d) remove, obscure, or alter copyright, trademark, attribution, licence, or proprietary notices;
+(e) represent that FolderMoji or a derivative product is created, authorized, sponsored, or endorsed by Paul Williams;
+(f) use the FolderMoji name, product identity, or confusingly similar branding for another product; or
+(g) circumvent technical measures used to authenticate future paid services or protected features.
+
+4. Modifications
+
+No right to create or distribute derivative works is granted. A user may make strictly private modifications for personal experimentation only if the modified software is not published, distributed, sold, transferred, or used to misrepresent its source. Permission may be requested for broader use.
+
+5. User content and bookmarks
+
+This licence does not give the Licensor ownership of a user's bookmarks, folder names, URLs, selected emojis, or colour preferences. Those materials remain subject to the rights of the user and any applicable third parties.
+
+6. Third-party materials
+
+Unicode emoji characters and browser- or operating-system-rendered emoji artwork are addressed in ATTRIBUTIONS.md. No ownership is claimed over Unicode standards, Chrome, Chromium, Google, or third-party platform artwork.
+
+7. Ownership
+
+FolderMoji, including its original source code, selection and arrangement, interface text, documentation, and original product materials, remains the property of Paul Williams and is protected by applicable copyright and other laws. No ownership rights are transferred under this licence.
+
+8. Updates and services
+
+The Licensor is not obligated to provide maintenance, support, updates, hosting, synchronization, or continued availability. Future features or services may be governed by additional terms.
+
+9. Termination
+
+This licence terminates automatically upon a material breach. Upon termination, the user must cease using and delete unauthorized copies of FolderMoji. Provisions concerning ownership, restrictions, disclaimers, liability, and governing law survive termination.
+
+10. Disclaimer
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, FOLDERMOJI IS PROVIDED “AS IS” AND “AS AVAILABLE,” WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, AVAILABILITY, OR ERROR-FREE OPERATION. NOTHING IN THIS LICENCE EXCLUDES A WARRANTY OR CONDITION THAT CANNOT LAWFULLY BE EXCLUDED.
+
+11. Limitation of liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE LICENSOR WILL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE LOSS, OR FOR LOSS OF DATA, BOOKMARKS, REVENUE, PROFITS, BUSINESS, OR OPPORTUNITY ARISING FROM OR RELATING TO FOLDERMOJI. WHERE LIABILITY CANNOT BE EXCLUDED, THE LICENSOR'S AGGREGATE LIABILITY WILL NOT EXCEED THE GREATER OF THE AMOUNT THE USER PAID FOR FOLDERMOJI AND CAD $10, SUBJECT TO ANY NON-WAIVABLE LEGAL RIGHTS.
+
+12. Governing law
+
+This licence is governed by the laws of British Columbia and the federal laws of Canada applicable there, without regard to conflict-of-law rules. The courts of British Columbia have exclusive jurisdiction, except where applicable consumer law requires otherwise.
+
+13. Severability and entire agreement
+
+If a provision is unenforceable, it will be limited or severed to the minimum extent necessary, and the remaining provisions will continue. This licence and any applicable written supplemental terms constitute the agreement concerning the licensed software.
+
+14. Contact and permissions
+
+Requests for commercial licensing, redistribution, translation, integration, or other permission must be directed to the developer through the official FolderMoji Chrome Web Store support contact.
